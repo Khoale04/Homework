@@ -18,8 +18,8 @@ number_of_byte = number_of_bits_remain_kilobyte // byte
 remain_bits = number_of_bits_remain_kilobyte % byte
 
 #Result
-# str_result = "The result is " + str(number_of_megabyte) + "MB " + str(number_of_kilobyte) + "KB " + str(number_of_byte) + "B " + str(remain_bits) + "b"
-# print(str_result)
+str_result = "The result is " + str(number_of_megabyte) + "MB " + str(number_of_kilobyte) + "KB " + str(number_of_byte) + "B " + str(remain_bits) + "b"
+print(str_result)
 
 
 
