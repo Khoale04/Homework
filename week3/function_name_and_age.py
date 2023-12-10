@@ -1,5 +1,5 @@
-def name_and_age(Name,age):
-    print("Name:", Name)
+def name_and_age(name,age):
+    print("Name:", name)
     print("Age: ", age)
 
 user_name = input("please enter your name: ")

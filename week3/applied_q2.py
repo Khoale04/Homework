@@ -10,4 +10,5 @@ def number(n):
             previous_number = number + previous_number
 
 
+
 number(6)

@@ -30,4 +30,4 @@ def new_number(n):
         print()
 
 # number_pattern(5)
-new_number(5)
+new_number(10)
