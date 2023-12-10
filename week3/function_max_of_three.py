@@ -1,14 +1,11 @@
 def max_of_three(num_1, num_2, num_3):
     maximum = 0
     if num_1 > num_2 and num_1 > num_2:
-        print(num_1, "is max")
         max_number = num_1
     else:
         if num_2 > num_1 and num_2 > num_3:
-            print(num_2, "is max")
             max_number = num_2
         else:
-            print(num_3, "is max")
             max_number = num_3
     return max_number
 
