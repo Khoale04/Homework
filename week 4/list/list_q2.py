@@ -8,7 +8,7 @@ def concat_two_list():
     list2 = ["y", "me", "s", "lly"]
     list_result = []
 
-    for i in range (0,len(list1),1):
+    for i in range(0,len(list1),1):
         list_result.append(list1[i] + list2[i])
 
     return list_result
